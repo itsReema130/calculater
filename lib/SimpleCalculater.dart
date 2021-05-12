@@ -93,7 +93,7 @@ buttonPressed(String buttonText){
         Widget build(BuildContext context) {
           return Scaffold(
             
-            appBar: AppBar( title: Text("calculater".toUpperCase(),style:TextStyle(fontFamily: 'PressStart2P'),),
+            appBar: AppBar( title: Text("calculater".toUpperCase()),
             shape: RoundedRectangleBorder(
             borderRadius: BorderRadius.vertical(
               bottom: Radius.circular(30),)),
