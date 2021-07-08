@@ -1,7 +1,6 @@
 # calculater_app
 
-A new Flutter project.
-
+A new Flutter project just for fun .
 ## Getting Started
 
 This project is a starting point for a Flutter application.
